@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+      "noImplicitAny": true,
+      "target": "ES5",
+      "module": "ES2015",      
+      "forceConsistentCasingInFileNames": true,
+      "strict": true,
+      "moduleResolution": "NodeNext",
+      "allowSyntheticDefaultImports":true
+  }
+}
